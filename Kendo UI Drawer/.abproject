@@ -1,0 +1,40 @@
+{
+  "ProjectName": "Kendo UI Drawer",
+  "ProjectGuid": "08ae6bc8-5017-4951-a069-5403074bcc02",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.KendoUIDrawer",
+  "DisplayName": "Kendo UI Drawer",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{293562a4-7267-4a75-a5d6-38d6b41d4a20}",
+  "WP8ProductID": "{5a6fcd73-70f6-4bc1-a91c-1b8d8cb420f3}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.KendoUIDrawer",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
